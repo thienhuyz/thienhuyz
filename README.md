@@ -1,29 +1,20 @@
 <!--Banner-->
 ![Banner](./banner.png)
 
-<!--Mascot image-->
-<div>
-  <img align="right" width="35%" src="./mascot.png">
-</div>
-
 <!--Header Name-->
 # ɪ'ᴍ ʜᴜʏ! 
 *Full Stack Developer*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">Mình là một Full Stack Developer với niềm đam mê C++, C#, JavaScript, React, .NET và xây dựng ứng dụng từ đầu đến cuối.</p>
+<p align="left">I am a Full Stack Developer with a strong passion for Node.js, React.js, Next.js, and crafting seamless end-to-end web experiences.</p>
 
-- ✨ Học hỏi mỗi ngày là một cơ hội
-- 🌱 Đang tìm hiểu sâu hơn về React.js, Next.js và backend .NET
-- 💻 Xem thêm các dự án của mình ngay bên dưới
-- 📫 Liên hệ mình qua Facebook hoặc Email
-<!--End Intro-->
+- ✨ Every day is a learning opportunity
+- 🌱 Currently focused on Node.js, React.js, and Next.js
+- 📫 Reach me via Facebook, LinkedIn, or Email
 
 <!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=thienhuyz&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="thienhuyz" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=thienhuyz&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="thienhuyz" />
 
 ---
 
@@ -31,52 +22,23 @@
 <h2 align="center">Tᴇᴄʜ Sᴛᴀᴄᴋ</h2> 
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=cpp,cs,html,css,js,dotnet,react,nextjs,nodejs,postgres,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,html,css,js,ts,dotnet,react,nextjs,nodejs,express,postgres,mysql,mongodb,git,github,docker,vercel,vscode,figma,tailwind,npm,redux,postman,linux" />
 </a>
 </p>
 
-<h3 align="left">Current Learning</h3>
+<h3 align="left">Currently Learning</h3>
 <ul align="left">
-  <li>Đào sâu React.js patterns và state management.</li>
-  <li>Cải thiện kỹ năng backend với .NET và Node.js.</li>
-  <li>Tìm hiểu thêm về database design với Postgres và MongoDB.</li>
+  <li>Deepening my knowledge of React.js and Next.js patterns.</li>
+  <li>Improving backend skills with Node.js.</li>
+  <li>Exploring database design with Postgres and MongoDB.</li>
 </ul>
 <br />
 
-<!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<!--Streak Stats-->
+<h2 align="center">🔥 Sᴛʀᴇᴀᴋ Sᴛᴀᴛs 🔥</h2>
 <p align="center">
-  <a href="https://github.com/thienhuyz">
-    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=thienhuyz&no-bg=true&no-frame=true&row=2&column=6&theme=nightowl" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thienhuyz&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
 </p>
-<br />
-
-<!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=thienhuyz&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github" alt="GitHub Stats" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thienhuyz&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<h3 align="center">Tᴏᴘ Lᴀɴɢᴜᴀɢᴇs</h3>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thienhuyz&layout=compact&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" />
-</p>
-<br />
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
@@ -86,22 +48,23 @@
 
 ---
 
-<!--Dynamic Quote card--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
-</p>
-
----
-
 <!--Contact Section--> 
-<h2 align="center">🤝 Kᴇ̂́ᴛ ɴᴏ̂́ɪ ᴠᴏ̛́ɪ Mɪ̀ɴʜ 🤝</h2>
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
 <div align="center">
 <a href="https://www.facebook.com/pham.huy.71977/" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+<img src="https://cdn.simpleicons.org/facebook/1877F2" height="45" alt="Facebook" />
 </a>
-<a href="mailto:thienhuyz3006@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/huy-ph%E1%BA%A1m-740b76295/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/thienhuyz" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
+</a>
+&nbsp;&nbsp;
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=thienhuyz3006@gmail.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail" />
 </a>
 </div>
 <br/>
